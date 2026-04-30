@@ -9,11 +9,18 @@ Professional file-uploader library.
 
 ## Installation
 ```bash
-# Install
+npm install file-uploader
 ```
 
 ## Usage
-```bash
-# Use it
+```javascript
+const lib = require('file-uploader');
 ```
 
+## Testing
+```bash
+npm test
+```
+
+## License
+MIT
